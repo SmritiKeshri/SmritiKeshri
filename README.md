@@ -5,13 +5,11 @@
   </h1>
 </div>
 <h3 align="center">Student</h3>
-<img align="right" width=400 alt="coding" src="https://images.squarespace-cdn.com/content/v1/5a12ed70cf81e08b62ab9795/1fd8fd54-12a7-4103-b68d-02ed61057619/PARTNER-header.jpg?format=1500w">
+<img align="right" width=700 height = 400 alt="coding" src="https://images.squarespace-cdn.com/content/v1/5a12ed70cf81e08b62ab9795/1fd8fd54-12a7-4103-b68d-02ed61057619/PARTNER-header.jpg?format=1500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritikeshri&label=Profile%20views&color=0e75b6&style=flat" alt="smritikeshri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smritikeshri" alt="smritikeshri" /></a>
-</p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
