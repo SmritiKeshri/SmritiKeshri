@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smriti Keshri</h1>
 <h3 align="center">Student</h3>
-<img align="right" width=400 alt="coding" src="https://miro.medium.com/v2/resize:fit:640/0*1fOKSM9na9IBROxm.gif">
+<img align="right" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:640/0*1fOKSM9na9IBROxm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritikeshri&label=Profile%20views&color=0e75b6&style=flat" alt="smritikeshri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smritikeshri" alt="smritikeshri" /></a> </p>
