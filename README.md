@@ -5,9 +5,7 @@
   </h1>
 </div>
 <h3 align="center">Student</h3>
-<img align="right" width=400 alt="coding" src="https://miro.medium.com/v2/resize:fit:640/0*1fOKSM9na9IBROxm.gif">
-
-
+<img align="right" width=400 alt="coding" src="https://images.squarespace-cdn.com/content/v1/5a12ed70cf81e08b62ab9795/1fd8fd54-12a7-4103-b68d-02ed61057619/PARTNER-header.jpg?format=1500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritikeshri&label=Profile%20views&color=0e75b6&style=flat" alt="smritikeshri" /> </p>
 
